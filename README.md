@@ -1,4 +1,6 @@
-html5-file-api
+# HTML5 File API
 ==============
 
 A demo on how to use the HTML5 File API
+
+
